@@ -1,0 +1,37 @@
+# Solve Me First
+
+Complete the function solveMeFirst to compute the sum of two
+integers.
+
+### Example
+```angular2html
+a = 7
+b = 3 
+Return 10.
+```
+
+### Function Description
+
+Complete the solveMeFirst function in the editor below.
+
+solveMeFirst has the following parameters:
+
+- int a: the first value int b: the second value Returns
+
+- int: the sum of and
+
+### Constraints
+
+
+```angular2html
+Sample Input
+a = 2 
+b = 3 
+
+Sample Output
+5 
+```
+### Explanation
+```angular2html
+2 + 3 = 5
+```
