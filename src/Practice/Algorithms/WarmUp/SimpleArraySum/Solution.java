@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Solution {
 
     static int simpleArraySum(int n, int[] ar) {
-        Integer sum = 0;
+        int sum = 0;
         for (int a : ar) {
             sum += a;
         }
