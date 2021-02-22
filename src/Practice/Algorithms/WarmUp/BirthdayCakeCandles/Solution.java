@@ -17,12 +17,14 @@ public class Solution {
     }
     public static void main(String[] args) throws IOException {
         Scanner in = new Scanner( System.in );
+        System.out.println("Enter numbers of candles");
         int n = in.nextInt();
+        System.out.println("Enter the each candle's height");
         int[] candles = new int[n];
         for (int ar_i = 0; ar_i < n; ar_i++) {
             candles[ar_i] = in.nextInt();
         }
         int result = birthdayCakeCandles( candles );
-        System.out.println( result );
+        System.out.println( "There is " + result +" tallest candles" );
     }
 }

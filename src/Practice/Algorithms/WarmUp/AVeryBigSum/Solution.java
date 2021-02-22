@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.stream.LongStream;
 
 public class Solution {
-    static long aVeryBigSum(long[] ar) {
+    static long aVeryBigSum(int n, long[] ar) {
         long sum = 0;
         for (int i = 0; i < ar.length; i++) {
             sum += ar[i];
@@ -12,20 +12,17 @@ public class Solution {
         return sum;
     }
 
-    private static final Scanner scanner = new Scanner( System.in );
-
     public static void main(String[] args) {
-        int arCount = scanner.nextInt();
+        Scanner scanner = new Scanner( System.in );
+        System.out.println("Integer number:");
+        int n = scanner.nextInt();
 
-        long[] ar = new long[arCount];
-
-        String[] arItems = scanner.nextLine().split( " " );
-
-        for (int i = 0; i < arCount; i++) {
-            long arItem = Long.parseLong( arItems[i] );
-            ar[i] = arItem;
+        System.out.println("Enter array of long number:");
+        long[] ar = new long[n];
+        for (int ar_i = 0; ar_i < n; ar_i++) {
+            ar[ar_i] = scanner.nextLong();
         }
-        long result = aVeryBigSum( ar );
-        System.out.println(result);
+        long result = aVeryBigSum( n, ar );
+        System.out.println("Sum is: " + result );
     }
 }

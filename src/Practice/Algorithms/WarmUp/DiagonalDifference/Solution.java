@@ -16,7 +16,9 @@ public class Solution {
 
     public static void main(String[] args) {
         Scanner in = new Scanner( System.in );
+        System.out.println("Enter the number of array");
         int n = in.nextInt();
+        System.out.println("Enter the number in each array");
         int[][] a = new int[n][n];
         for (int a_i = 0; a_i < n; a_i++) {
             for (int a_j = 0; a_j < n; a_j++) {
@@ -24,7 +26,7 @@ public class Solution {
             }
         }
         int result = diagonalDifference( a );
-        System.out.println( result );
+        System.out.println("Difference of 2 diagonal is: " + result );
         in.close();
     }
 }
