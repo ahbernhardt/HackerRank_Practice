@@ -1,4 +1,4 @@
-package Practice.ThirtyDaysOfCode.Day0;
+package ThirtyDaysOfCode.Day0;
 
 import java.util.*;
 

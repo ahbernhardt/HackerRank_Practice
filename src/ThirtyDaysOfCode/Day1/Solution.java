@@ -1,10 +1,6 @@
-package Practice.ThirtyDaysOfCode.Day1;
+package ThirtyDaysOfCode.Day1;
 
 import java.util.Scanner;
-import java.util. *;
-import java.text. *;
-import java.math. *;
-import java.util.regex. *;
 
 public class Solution {
 

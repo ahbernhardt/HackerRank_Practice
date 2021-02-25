@@ -1,4 +1,4 @@
-package Practice.ThirtyDaysOfCode.Day4;
+package ThirtyDaysOfCode.Day4;
 
 import java.util.Scanner;
 
