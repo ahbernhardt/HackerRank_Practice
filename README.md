@@ -1,5 +1,4 @@
 # My HackerRank Solutions
-<hr>
 
 This repository contains my solutions for the challenges hosted @ HackerRank.com All problems are solved in Java. Each challenge contains the original problem statement in markdown format.
 

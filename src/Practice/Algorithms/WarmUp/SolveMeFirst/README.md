@@ -1,6 +1,5 @@
 # Solve Me First
 
-<hr>
 Complete the function solveMeFirst to compute the sum of two
 integers.
 

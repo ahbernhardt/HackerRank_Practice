@@ -1,5 +1,4 @@
 # 2D Arrays DS
-<hr>
 
 Given a `6 x 6` *2D Array*, `arr` :
 ```angular2html
