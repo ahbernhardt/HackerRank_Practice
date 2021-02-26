@@ -13,7 +13,7 @@ Challenge| Problem Statement | Solution
 [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [markdown](src/ThirtyDaysOfCode/Day2/README.md) | [Java](src/ThirtyDaysOfCode/Day2/Solution.java)
 [Day 3: Intro to Conditional Statement](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [markdown](src/ThirtyDaysOfCode/Day3/README.md) | [Java](src/ThirtyDaysOfCode/Day3/Solution.java)
 [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [markdown](src/ThirtyDaysOfCode/Day4/README.md) | [Java](src/ThirtyDaysOfCode/Day4/Person.java)
-
+[Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [markdown](src/ThirtyDaysOfCode/Day5/README.md) | [Java](src/ThirtyDaysOfCode/Day5/Solution.java)
 
 ## Practice
 Problem Solving Topics: Algorithms and Data Structure
