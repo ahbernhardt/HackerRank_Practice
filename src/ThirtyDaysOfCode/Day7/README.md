@@ -1,4 +1,4 @@
-# Day 6: Loops
+# Day 7: Arrays
 
 
 ## Task
