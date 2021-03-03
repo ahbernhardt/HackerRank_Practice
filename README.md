@@ -17,7 +17,7 @@ Challenge| Problem Statement | JAVA | JavaScript
 [Day 6: Loops Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [markdown](src/ThirtyDaysOfCode/Day_06/README.md) | [Java](src/ThirtyDaysOfCode/Day_06/Solution.java)  | [link](src/ThirtyDaysOfCode/Day_06/Solution.js)
 [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [markdown](src/ThirtyDaysOfCode/Day_07/README.md) | [Java](src/ThirtyDaysOfCode/Day_07/Solution.java)  | [link](src/ThirtyDaysOfCode/Day_07/Solution.js)
 [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [markdown](src/ThirtyDaysOfCode/Day_08/README.md) | [Java](src/ThirtyDaysOfCode/Day_08/Solution.java)  | [link](src/ThirtyDaysOfCode/Day_08/Solution.js)
-[Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [markdown](src/ThirtyDaysOfCode/Day9/README.md) | [Java](src/ThirtyDaysOfCode/Day9/Solution.java) | [link](src/ThirtyDaysOfCode/Day9/Solution.js)
+[Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [markdown](src/ThirtyDaysOfCode/Day_09/README.md) | [Java](src/ThirtyDaysOfCode/Day_09/Solution.java) | [link](src/ThirtyDaysOfCode/Day_09/Solution.js)
 [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [markdown](src/ThirtyDaysOfCode/Day_10/README.md) | [Java](src/ThirtyDaysOfCode/Day_10/Solution.java) | [link](src/ThirtyDaysOfCode/Day_10/Solution.js)
 
 ## Practice
