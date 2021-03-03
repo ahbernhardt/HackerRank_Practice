@@ -1,5 +1,4 @@
-package ThirtyDaysOfCode.Day6;
-import java.io.*;
+package ThirtyDaysOfCode.Day_06;
 import java.util.*;
 
 public class Solution {
