@@ -3,7 +3,6 @@ package ThirtyDaysOfCode.Day1;
 import java.util.Scanner;
 
 public class Solution {
-
     public static void main(String[] args) {
         /* Declare first integer, double, and String variables. */
         int i = 4;
