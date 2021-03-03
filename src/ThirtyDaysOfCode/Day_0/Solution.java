@@ -1,4 +1,4 @@
-package ThirtyDaysOfCode.Day0;
+package ThirtyDaysOfCode.Day_0;
 
 import java.util.*;
 

@@ -8,7 +8,7 @@ A Daily New Challenge for 30 days
 
 Challenge| Problem Statement | JAVA | JavaScript
 ----------|-------------------|----------|----------|
-[Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [markdown](src/ThirtyDaysOfCode/Day0/README.md) | [Java](src/ThirtyDaysOfCode/Day0/Solution.java) | [link](src/ThirtyDaysOfCode/Day0/Solution.js)
+[Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [markdown](src/ThirtyDaysOfCode/Day_0/README.md) | [Java](src/ThirtyDaysOfCode/Day_0/Solution.java) | [link](src/ThirtyDaysOfCode/Day_0/Solution.js)
 [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [markdown](src/ThirtyDaysOfCode/Day1/README.md) | [Java](src/ThirtyDaysOfCode/Day1/Solution.java) | [link](src/ThirtyDaysOfCode/Day1/Solution.js)
 [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [markdown](src/ThirtyDaysOfCode/Day2/README.md) | [Java](src/ThirtyDaysOfCode/Day2/Solution.java) | [link](src/ThirtyDaysOfCode/Day2/Solution.js)
 [Day 3: Intro to Conditional Statement](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [markdown](src/ThirtyDaysOfCode/Day3/README.md) | [Java](src/ThirtyDaysOfCode/Day3/Solution.java) | [link](src/ThirtyDaysOfCode/Day3/Solution.js)
