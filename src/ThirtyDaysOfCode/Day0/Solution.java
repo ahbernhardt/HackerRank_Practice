@@ -9,7 +9,6 @@ public class Solution {
 
         // Read a full line of input from stdin and save it to our variable, inputString.
         String inputString = scan.nextLine();
-
         System.out.println( "Hello, World." );
         System.out.println( inputString );
         scan.close();
