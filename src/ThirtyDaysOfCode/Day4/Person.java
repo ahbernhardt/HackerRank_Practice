@@ -23,7 +23,6 @@ public class Person {
         } else {
             System.out.println( "You are old." );
         }
-
     }
 
     public void yearPasses() {

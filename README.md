@@ -6,18 +6,20 @@ This repository contains my solutions for the challenges hosted @ HackerRank.com
 
 A Daily New Challenge for 30 days 
 
-Challenge| Problem Statement | Solution 
-----------|-------------------|----------|
-[Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [markdown](src/ThirtyDaysOfCode/Day0/README.md) | [Java](src/ThirtyDaysOfCode/Day0/Solution.java)
-[Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [markdown](src/ThirtyDaysOfCode/Day1/README.md) | [Java](src/ThirtyDaysOfCode/Day1/Solution.java)
-[Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [markdown](src/ThirtyDaysOfCode/Day2/README.md) | [Java](src/ThirtyDaysOfCode/Day2/Solution.java)
-[Day 3: Intro to Conditional Statement](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [markdown](src/ThirtyDaysOfCode/Day3/README.md) | [Java](src/ThirtyDaysOfCode/Day3/Solution.java)
-[Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [markdown](src/ThirtyDaysOfCode/Day4/README.md) | [Java](src/ThirtyDaysOfCode/Day4/Person.java)
+Challenge| Problem Statement | JAVA | JavaScript
+----------|-------------------|----------|----------|
+[Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [markdown](src/ThirtyDaysOfCode/Day0/README.md) | [Java](src/ThirtyDaysOfCode/Day0/Solution.java) | [link](src/ThirtyDaysOfCode/Day0/Solution.js)
+[Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [markdown](src/ThirtyDaysOfCode/Day1/README.md) | [Java](src/ThirtyDaysOfCode/Day1/Solution.java) | [link](src/ThirtyDaysOfCode/Day1/Solution.js)
+[Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [markdown](src/ThirtyDaysOfCode/Day2/README.md) | [Java](src/ThirtyDaysOfCode/Day2/Solution.java) | [link](src/ThirtyDaysOfCode/Day2/Solution.js)
+[Day 3: Intro to Conditional Statement](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [markdown](src/ThirtyDaysOfCode/Day3/README.md) | [Java](src/ThirtyDaysOfCode/Day3/Solution.java) | [link](src/ThirtyDaysOfCode/Day3/Solution.js)
+[Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [markdown](src/ThirtyDaysOfCode/Day4/README.md) | [Java](src/ThirtyDaysOfCode/Day4/Person.java) | [link](src/ThirtyDaysOfCode/Day4/Solution.js)
 [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [markdown](src/ThirtyDaysOfCode/Day5/README.md) | [Java](src/ThirtyDaysOfCode/Day5/Solution.java)
 [Day 6: Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [markdown](src/ThirtyDaysOfCode/Day6/README.md) | [Java](src/ThirtyDaysOfCode/Day6/Solution.java)
 [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [markdown](src/ThirtyDaysOfCode/Day7/README.md) | [Java](src/ThirtyDaysOfCode/Day7/Solution.java)
 [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [markdown](src/ThirtyDaysOfCode/Day8/README.md) | [Java](src/ThirtyDaysOfCode/Day8/Solution.java)
 [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [markdown](src/ThirtyDaysOfCode/Day9/README.md) | [Java](src/ThirtyDaysOfCode/Day9/Solution.java)
+[Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [markdown](src/ThirtyDaysOfCode/Day10/README.md) | [Java](src/ThirtyDaysOfCode/Day10/Solution.java) | [link](src/ThirtyDaysOfCode/Day10/Solution.js)
+
 ## Practice
 Problem Solving Topics: Algorithms and Data Structure
 ### Algorithms
