@@ -4,7 +4,7 @@ This repository contains my solutions for the challenges hosted @ HackerRank.com
 
 ## 30 Days of Code
 
-A Daily New Challenge for 30 days 
+A New Daily Challenge for 30 days 
 
 Challenge| Problem Statement | JAVA | JavaScript
 ----------|-------------------|----------|----------|
@@ -19,6 +19,7 @@ Challenge| Problem Statement | JAVA | JavaScript
 [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [markdown](src/ThirtyDaysOfCode/Day_08/README.md) | [Java](src/ThirtyDaysOfCode/Day_08/Solution.java)  | [link](src/ThirtyDaysOfCode/Day_08/Solution.js)
 [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [markdown](src/ThirtyDaysOfCode/Day_09/README.md) | [Java](src/ThirtyDaysOfCode/Day_09/Solution.java) | [link](src/ThirtyDaysOfCode/Day_09/Solution.js)
 [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [markdown](src/ThirtyDaysOfCode/Day_10/README.md) | [Java](src/ThirtyDaysOfCode/Day_10/Solution.java) | [link](src/ThirtyDaysOfCode/Day_10/Solution.js)
+[Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [markdown](src/ThirtyDaysOfCode/Day_11/README.md) | [Java](src/ThirtyDaysOfCode/Day_11/Solution.java) | [link](src/ThirtyDaysOfCode/Day_11/Solution.js)
 
 ## Practice
 Problem Solving Topics: Algorithms and Data Structure
