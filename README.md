@@ -38,6 +38,12 @@ Challenge| Problem Statement | Solution
 [Staircase](https://www.hackerrank.com/challenges/staircase) | [markdown](src/Practice/Algorithms/WarmUp/Staircase/README.md) | [Java](src/Practice/Algorithms/WarmUp/Staircase/Solution.java)
 [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | [markdown](src/Practice/Algorithms/WarmUp/TimeConversion/README.md) | [Java](src/Practice/Algorithms/WarmUp/TimeConversion/Solution.java)
 
+#### Implementation
+
+Challenge| Problem Statement | Solution
+----------|-------------------|----------|
+[Grading Students](https://www.hackerrank.com/challenges/grading-students/problem) | [markdown](src/Practice/Algorithms/Implementation/GradingStudents/README.md) | [Java](src/Practice/Algorithms/Implementation/GradingStudents/Solution.java)
+[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [markdown](src/Practice/Algorithms/Implementation/AppleAndOrange/README.md) | [Java](src/Practice/Algorithms/Implementation/AppleAndOrange/Solution.java)
 ### Data Structure
 #### Arrays
 
