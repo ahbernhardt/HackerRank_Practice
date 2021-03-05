@@ -20,7 +20,7 @@ Challenge| Problem Statement | JAVA | JavaScript
 [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [markdown](src/ThirtyDaysOfCode/Day_09/README.md) | [Java](src/ThirtyDaysOfCode/Day_09/Solution.java) | [link](src/ThirtyDaysOfCode/Day_09/Solution.js)
 [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [markdown](src/ThirtyDaysOfCode/Day_10/README.md) | [Java](src/ThirtyDaysOfCode/Day_10/Solution.java) | [link](src/ThirtyDaysOfCode/Day_10/Solution.js)
 [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [markdown](src/ThirtyDaysOfCode/Day_11/README.md) | [Java](src/ThirtyDaysOfCode/Day_11/Solution.java) | [link](src/ThirtyDaysOfCode/Day_11/Solution.js)
-
+[Day 12: ---------](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [markdown](src/ThirtyDaysOfCode/Day_12/README.md) | [Java](src/ThirtyDaysOfCode/Day_12/Solution.java) | [link](src/ThirtyDaysOfCode/Day_12/Solution.js)
 ## Practice
 Problem Solving Topics: Algorithms and Data Structure
 ### Algorithms
