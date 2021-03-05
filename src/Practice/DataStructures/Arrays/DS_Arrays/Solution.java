@@ -1,4 +1,4 @@
-package Practice.DataStructures.Arrays.ArraysDS;
+package Practice.DataStructures.Arrays.DS_Arrays;
 import java.io.*;
 import java.util.*;
 

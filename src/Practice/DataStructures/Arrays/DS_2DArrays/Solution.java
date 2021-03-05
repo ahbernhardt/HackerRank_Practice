@@ -1,4 +1,4 @@
-package Practice.DataStructures.Arrays.TwoD_ArraysDS;
+package Practice.DataStructures.Arrays.DS_2DArrays;
 
 import java.io.IOException;
 import java.util.Scanner;

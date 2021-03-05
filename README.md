@@ -50,5 +50,11 @@ Challenge| Problem Statement | Solution
 
 Challenge| Problem Statement | Solution
 ----------|-------------------|----------|
-[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | [markdown](src/Practice/DataStructures/Arrays/ArraysDS/README.md) | [Java](src/Practice/DataStructures/Arrays/ArraysDS/Solution.java)
-[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem) | [markdown](src/Practice/DataStructures/Arrays/TwoD_ArraysDS/README.md) | [Java](src/Practice/DataStructures/Arrays/TwoD_ArraysDS/Solution.java)
+[Arrays](https://www.hackerrank.com/challenges/arrays-ds/problem) | [markdown](src/Practice/DataStructures/Arrays/DS_Arrays/README.md) | [Java](src/Practice/DataStructures/Arrays/DS_Arrays/Solution.java)
+[2D Array](https://www.hackerrank.com/challenges/2d-array/problem) | [markdown](src/Practice/DataStructures/Arrays/DS_2DArrays/README.md) | [Java](src/Practice/DataStructures/Arrays/DS_2DArrays/Solution.java)
+[Dynamic](https://www.hackerrank.com/challenges/dynamic-array/problem) | [PDF](src/Practice/DataStructures/Arrays/DS_Dynamic/dynamic-array-English.pdf) | [Java](src/Practice/DataStructures/Arrays/DS_Dynamic/Solution.java)
+
+#### Linked Lists
+
+Challenge| Problem Statement | Solution
+----------|-------------------|----------|
