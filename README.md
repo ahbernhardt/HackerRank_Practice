@@ -20,8 +20,8 @@ Challenge | Problem Statement | Solutions
 [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [markdown](src/ThirtyDaysOfCode/Day_09/README.md) | [link](src/ThirtyDaysOfCode/Day_09)
 [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [markdown](src/ThirtyDaysOfCode/Day_10/README.md) | [link](src/ThirtyDaysOfCode/Day_10)
 [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [markdown](src/ThirtyDaysOfCode/Day_11/README.md) | [link](src/ThirtyDaysOfCode/Day_11)
-[Day 12: ---------](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [markdown](src/ThirtyDaysOfCode/Day_12/README.md) | [link](src/ThirtyDaysOfCode/Day_12)
-
+[Day 12: Inheritance](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [markdown](src/ThirtyDaysOfCode/Day_12/README.md) | [link](src/ThirtyDaysOfCode/Day_12)
+[Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [markdown](src/ThirtyDaysOfCode/Day_13/README.md) | [link](src/ThirtyDaysOfCode/Day_13)
 ## Practice
 Problem Solving Topics: Algorithms and Data Structure
 ### Algorithms
