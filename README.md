@@ -24,10 +24,11 @@ Challenge| Problem Statement | Solution
 ----------|-------------------|----------|
 [Grading Students](https://www.hackerrank.com/challenges/grading-students/problem) | [markdown](src/Algorithms/Implementation/GradingStudents/README.md) | [Java](src/Algorithms/Implementation/GradingStudents/Solution.java)
 [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [markdown](src/Algorithms/Implementation/AppleAndOrange/README.md) | [Java](src/Algorithms/Implementation/AppleAndOrange/Solution.java)
-[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | [pdf](src/Algorithms/Implementation/Kangaroo/Kangaroo.pdf) | [Java](src/Algorithms/Implementation/Kangaroo/Solution.java)
+[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | [pdf](src/Algorithms/Implementation/Kangaroo/Kangaroo_problemstatement.pdf) | [Java](src/Algorithms/Implementation/Kangaroo/Solution.java)
+
+
 ## Data Structure
 ### Arrays
-
 Challenge| Problem Statement | Solution
 ----------|-------------------|----------|
 [Arrays](https://www.hackerrank.com/challenges/arrays-ds/problem) | [markdown](src/DataStructures/Arrays/DS_Arrays/README.md) | [Java](src/DataStructures/Arrays/DS_Arrays/Solution.java)
