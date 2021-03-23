@@ -1,6 +1,6 @@
 # My HackerRank Solutions
 
-This repository contains my solutions for the challenges hosted @ HackerRank.com All problems are solved in Java. Each challenge contains the original problem statement in markdown format.
+This repository contains my solutions for the challenges hosted @HackerRank.com All problems are solved in Java. Each challenge contains the original problem statement in markdown format.
 
 ## Algorithms
 ### WarmUp
@@ -24,7 +24,7 @@ Challenge| Problem Statement | Solution
 ----------|-------------------|----------|
 [Grading Students](https://www.hackerrank.com/challenges/grading-students/problem) | [markdown](src/Algorithms/Implementation/GradingStudents/README.md) | [Java](src/Algorithms/Implementation/GradingStudents/Solution.java)
 [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [markdown](src/Algorithms/Implementation/AppleAndOrange/README.md) | [Java](src/Algorithms/Implementation/AppleAndOrange/Solution.java)
-
+[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | [pdf](src/Algorithms/Implementation/Kangaroo/Kangaroo.pdf) | [Java](src/Algorithms/Implementation/Kangaroo/Solution.java)
 ## Data Structure
 ### Arrays
 
