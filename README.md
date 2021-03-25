@@ -25,6 +25,7 @@ Challenge| Problem Statement | Solution
 [Grading Students](https://www.hackerrank.com/challenges/grading-students/problem) | [markdown](src/Algorithms/Implementation/GradingStudents/README.md) | [Java](src/Algorithms/Implementation/GradingStudents/Solution.java)
 [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [markdown](src/Algorithms/Implementation/AppleAndOrange/README.md) | [Java](src/Algorithms/Implementation/AppleAndOrange/Solution.java)
 [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | [pdf](src/Algorithms/Implementation/Kangaroo/Kangaroo_problemstatement.pdf) | [Java](src/Algorithms/Implementation/Kangaroo/Solution.java)
+[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [pdf](src/Algorithms/Implementation/BetweenTwoSets/between-two-sets.pdf) | [Java](src/Algorithms/Implementation/BetweenTwoSets/Solution.java)
 
 
 ## Data Structure
