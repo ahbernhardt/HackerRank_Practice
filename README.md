@@ -1,6 +1,13 @@
 # My HackerRank Solutions
 
-This repository contains my solutions for the challenges hosted @HackerRank.com All problems are solved in Java. Each challenge contains the original problem statement in markdown format.
+This repository contains my solutions for the challenges hosted @HackerRank.com All problems are solved in Java or JavaScript. Each challenge contains the original problem statement in markdown format.
+## Interview Preparation Kit
+### WarmUp
+
+Challenge | Problem Statement | Solutions
+----------|-------------------|----------|
+[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [markdown](src/InterviewPreparationKit/WarmUp/SalesByMatch/README.md) | [link](src/InterviewPreparationKit/WarmUp/SalesByMatch/Solution.js)
+[Counting Valleys](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [markdown](src/InterviewPreparationKit/WarmUp/SalesByMatch/README.md) | [link](src/InterviewPreparationKit/WarmUp/SalesByMatch/Solution.js)
 
 ## Algorithms
 ### WarmUp
@@ -26,6 +33,7 @@ Challenge| Problem Statement | Solution
 [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [markdown](src/Algorithms/Implementation/AppleAndOrange/README.md) | [Java](src/Algorithms/Implementation/AppleAndOrange/Solution.java)
 [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | [pdf](src/Algorithms/Implementation/Kangaroo/Kangaroo_problemstatement.pdf) | [Java](src/Algorithms/Implementation/Kangaroo/Solution.java)
 [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [pdf](src/Algorithms/Implementation/BetweenTwoSets/between-two-sets.pdf) | [Java](src/Algorithms/Implementation/BetweenTwoSets/Solution.java)
+[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem) | [markdown](src/Algorithms/Implementation/SalesByMatch/README.md) | [JavaScript](src/Algorithms/Implementation/SalesByMatch/Solution.js)
 
 
 ## Data Structure
