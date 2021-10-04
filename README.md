@@ -8,6 +8,7 @@ Challenge | Problem Statement | Solutions
 ----------|-------------------|----------|
 [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [markdown](src/InterviewPreparationKit/WarmUp/SalesByMatch/README.md) | [link](src/InterviewPreparationKit/WarmUp/SalesByMatch/Solution.js)
 [Counting Valleys](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [markdown](src/InterviewPreparationKit/WarmUp/CountingValleys/README.md) | [link](src/InterviewPreparationKit/WarmUp/CountingValleys/Solution.js)
+[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [pdf](src/InterviewPreparationKit/WarmUp/JumpingOnTheClouds/jumping-on-the-clouds.pdf) | [link](src/InterviewPreparationKit/WarmUp/JumpingOnTheClouds/Solution.js)
 
 ## Algorithms
 ### WarmUp
