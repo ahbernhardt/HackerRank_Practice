@@ -35,6 +35,7 @@ Challenge| Problem Statement | Solution
 [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | [pdf](src/Algorithms/Implementation/Kangaroo/Kangaroo_problemstatement.pdf) | [Java](src/Algorithms/Implementation/Kangaroo/Solution.java)
 [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [pdf](src/Algorithms/Implementation/BetweenTwoSets/between-two-sets.pdf) | [Java](src/Algorithms/Implementation/BetweenTwoSets/Solution.java)
 [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem) | [markdown](src/Algorithms/Implementation/SalesByMatch/README.md) | [JavaScript](src/Algorithms/Implementation/SalesByMatch/Solution.js)
+[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [markdown](src/Algorithms/Implementation/BreakingTheRecords/breaking-the-records.pdf) | [Java](src/Algorithms/Implementation/BreakingTheRecords/Solution.java)
 
 
 ## Data Structure
