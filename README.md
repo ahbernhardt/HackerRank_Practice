@@ -1,34 +1,42 @@
 # My HackerRank Solutions
 
 This repository contains my solutions for the challenges hosted @HackerRank.com All problems are solved in Java or JavaScript. Each challenge contains the original problem statement in markdown format.
+
+-----------------------------------------------------------------------------------------------------------------------
 ## Interview Preparation Kit
-### WarmUp
+### ------------------------------- WarmUp -----------------------------------
 
 Challenge | Problem Statement | Solutions
 ----------|-------------------|----------|
-[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [markdown](src/InterviewPreparationKit/WarmUp/SalesByMatch/README.md) | [link](src/InterviewPreparationKit/WarmUp/SalesByMatch/Solution.js)
-[Counting Valleys](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [markdown](src/InterviewPreparationKit/WarmUp/CountingValleys/README.md) | [link](src/InterviewPreparationKit/WarmUp/CountingValleys/Solution.js)
-[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [markdown](src/InterviewPreparationKit/WarmUp/JumpingOnTheClouds/README.md) | [link](src/InterviewPreparationKit/WarmUp/JumpingOnTheClouds/Solution.js)
-[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [markdown](src/InterviewPreparationKit/WarmUp/RepeatedString/README.md) | [link](src/InterviewPreparationKit/WarmUp/RepeatedString/Solution.js)
+[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [markdown](src/InterviewPreparationKit/WarmUp/SalesByMatch/README.md) | [JavaScript](src/InterviewPreparationKit/WarmUp/SalesByMatch/Solution.js)
+[Counting Valleys](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [markdown](src/InterviewPreparationKit/WarmUp/CountingValleys/README.md) | [JavaScript](src/InterviewPreparationKit/WarmUp/CountingValleys/Solution.js)
+[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [markdown](src/InterviewPreparationKit/WarmUp/JumpingOnTheClouds/README.md) | [JavaScript](src/InterviewPreparationKit/WarmUp/JumpingOnTheClouds/Solution.js)
+[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [markdown](src/InterviewPreparationKit/WarmUp/RepeatedString/README.md) | [JavaScript](src/InterviewPreparationKit/WarmUp/RepeatedString/Solution.js)
 
+### ------------------------------- Arrays -----------------------------------
+
+Challenge | Problem Statement | Solutions
+----------|-------------------|----------|
+[Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [markdown](src/InterviewPreparationKit/Arrays/ArraysLeftRotation/README.md) | [JavaScript](src/InterviewPreparationKit/Arrays/ArraysLeftRotation/Solution.js)
+
+-----------------------------------------------------------------------------------------------------------------------
 ## Algorithms
-### WarmUp
 
+### ------------------------------- WarmUp -----------------------------------
 Challenge | Problem Statement | Solutions 
 ----------|-------------------|----------|
-[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | [markdown](src/Algorithms/WarmUp/AVeryBigSum/README.md) | [link](src/Algorithms/WarmUp/AVeryBigSum/Solution.java) 
-[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | [markdown](src/Algorithms/WarmUp/BirthdayCakeCandles/README.md) | [link](src/Algorithms/WarmUp/BirthdayCakeCandles/Solution.java) 
-[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | [markdown](src/Algorithms/WarmUp/CompareTheTriplets/README.md) | [link](src/Algorithms/WarmUp/CompareTheTriplets/Solution.java) 
-[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | [markdown](src/Algorithms/WarmUp/DiagonalDifference/README.md) | [link](src/Algorithms/WarmUp/DiagonalDifference/Solution.java) 
-[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | [markdown](src/Algorithms/WarmUp/MiniMaxSum/README.md) | [link](src/Algorithms/WarmUp/MiniMaxSum/Solution.java) 
-[PlusMinus](https://www.hackerrank.com/challenges/plus-minus) | [markdown](src/Algorithms/WarmUp/PlusMinus/README.md) | [link](src/Algorithms/WarmUp/PlusMinus/Solution.java) 
-[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | [markdown](src/Algorithms/WarmUp/SimpleArraySum/README.md) | [link](src/Algorithms/WarmUp/SimpleArraySum/Solution.java) 
-[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | [markdown](src/Algorithms/WarmUp/SolveMeFirst/README.md) | [link](src/Algorithms/WarmUp/SolveMeFirst/Solution.java) 
-[Staircase](https://www.hackerrank.com/challenges/staircase) | [markdown](src/Algorithms/WarmUp/Staircase/README.md) | [link](src/Algorithms/WarmUp/Staircase/Solution.java)
-[Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | [markdown](src/Algorithms/WarmUp/TimeConversion/README.md) | [link](src/Algorithms/WarmUp/TimeConversion/Solution.java)
+[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | [markdown](src/Algorithms/WarmUp/AVeryBigSum/README.md) | [Java](src/Algorithms/WarmUp/AVeryBigSum/Solution.java) 
+[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | [markdown](src/Algorithms/WarmUp/BirthdayCakeCandles/README.md) | [Java](src/Algorithms/WarmUp/BirthdayCakeCandles/Solution.java) 
+[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | [markdown](src/Algorithms/WarmUp/CompareTheTriplets/README.md) | [Java](src/Algorithms/WarmUp/CompareTheTriplets/Solution.java) 
+[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | [markdown](src/Algorithms/WarmUp/DiagonalDifference/README.md) | [Java](src/Algorithms/WarmUp/DiagonalDifference/Solution.java) 
+[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | [markdown](src/Algorithms/WarmUp/MiniMaxSum/README.md) | [Java](src/Algorithms/WarmUp/MiniMaxSum/Solution.java) 
+[PlusMinus](https://www.hackerrank.com/challenges/plus-minus) | [markdown](src/Algorithms/WarmUp/PlusMinus/README.md) | [Java](src/Algorithms/WarmUp/PlusMinus/Solution.java) 
+[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | [markdown](src/Algorithms/WarmUp/SimpleArraySum/README.md) | [Java](src/Algorithms/WarmUp/SimpleArraySum/Solution.java) 
+[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | [markdown](src/Algorithms/WarmUp/SolveMeFirst/README.md) | [Java](src/Algorithms/WarmUp/SolveMeFirst/Solution.java) 
+[Staircase](https://www.hackerrank.com/challenges/staircase) | [markdown](src/Algorithms/WarmUp/Staircase/README.md) | [Java](src/Algorithms/WarmUp/Staircase/Solution.java)
+[Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | [markdown](src/Algorithms/WarmUp/TimeConversion/README.md) | [Java](src/Algorithms/WarmUp/TimeConversion/Solution.java)
 
-### Implementation
-
+### ------------------------------- Implementation -----------------------------------
 Challenge| Problem Statement | Solution
 ----------|-------------------|----------|
 [Grading Students](https://www.hackerrank.com/challenges/grading-students/problem) | [markdown](src/Algorithms/Implementation/GradingStudents/README.md) | [Java](src/Algorithms/Implementation/GradingStudents/Solution.java)
@@ -38,16 +46,16 @@ Challenge| Problem Statement | Solution
 [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem) | [markdown](src/Algorithms/Implementation/SalesByMatch/README.md) | [JavaScript](src/Algorithms/Implementation/SalesByMatch/Solution.js)
 [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [markdown](src/Algorithms/Implementation/BreakingTheRecords/breaking-the-records.pdf) | [Java](src/Algorithms/Implementation/BreakingTheRecords/Solution.java)
 
-
+-----------------------------------------------------------------------------------------------------------------------
 ## Data Structure
-### Arrays
+### ------------------------------- Arrays -----------------------------------
 Challenge| Problem Statement | Solution
 ----------|-------------------|----------|
 [Arrays](https://www.hackerrank.com/challenges/arrays-ds/problem) | [markdown](src/DataStructures/Arrays/DS_Arrays/README.md) | [Java](src/DataStructures/Arrays/DS_Arrays/Solution.java)
 [2D Array](https://www.hackerrank.com/challenges/2d-array/problem) | [markdown](src/DataStructures/Arrays/DS_2DArrays/README.md) | [Java](src/DataStructures/Arrays/DS_2DArrays/Solution.java)
 [Dynamic](https://www.hackerrank.com/challenges/dynamic-array/problem) | [PDF](src/DataStructures/Arrays/DS_Dynamic/dynamic-array-English.pdf) | [Java](src/DataStructures/Arrays/DS_Dynamic/Solution.java)
 
-#### Linked Lists
+#### ------------------------------- Linked Lists -----------------------------------
 
 Challenge| Problem Statement | Solution
 ----------|-------------------|----------|
