@@ -54,6 +54,7 @@ Challenge| Problem Statement | Solution
 [Arrays](https://www.hackerrank.com/challenges/arrays-ds/problem) | [markdown](src/DataStructures/Arrays/DS_Arrays/README.md) | [Java](src/DataStructures/Arrays/DS_Arrays/Solution.java)
 [2D Array](https://www.hackerrank.com/challenges/2d-array/problem) | [markdown](src/DataStructures/Arrays/DS_2DArrays/README.md) | [Java](src/DataStructures/Arrays/DS_2DArrays/Solution.java)
 [Dynamic](https://www.hackerrank.com/challenges/dynamic-array/problem) | [PDF](src/DataStructures/Arrays/DS_Dynamic/dynamic-array-English.pdf) | [Java](src/DataStructures/Arrays/DS_Dynamic/Solution.java)
+[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | [markdown](src/DataStructures/Arrays/LeftRotation/README.md) | [Java](src/DataStructures/Arrays/LeftRotation/Solution.java)
 
 #### ------------------------------- Linked Lists -----------------------------------
 
