@@ -18,6 +18,7 @@ Challenge | Problem Statement | Solutions
 Challenge | Problem Statement | Solutions
 ----------|-------------------|----------|
 [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [markdown](src/InterviewPreparationKit/Arrays/ArraysLeftRotation/README.md) | [JavaScript](src/InterviewPreparationKit/Arrays/ArraysLeftRotation/Solution.js)
+[New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [markdown](src/InterviewPreparationKit/Arrays/NewYearChaos/README.md) | [JavaScript](src/InterviewPreparationKit/Arrays/NewYearChaos/Solution.js)
 
 -----------------------------------------------------------------------------------------------------------------------
 ## Algorithms
