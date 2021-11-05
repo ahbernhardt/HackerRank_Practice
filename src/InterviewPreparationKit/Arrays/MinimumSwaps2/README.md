@@ -49,10 +49,10 @@ The second line contains  space-separated integers `arr[i]`.
 3
 ```
 ### Explanation
-Given array `arr: [2,3,4,1,5]`
-After swapping `(2,3)` we get `arr: [2,3,1,4,5]`
-After swapping `(0,1)` we get `arr: [3,2,1,4,5]`
-After swapping `(0,2)` we get `arr: [1,2,3,4,5]`
+Given array `arr: [2,3,4,1,5]` <br>
+After swapping `(2,3)` we get `arr: [2,3,1,4,5]`<br>
+After swapping `(0,1)` we get `arr: [3,2,1,4,5]`<br>
+After swapping `(0,2)` we get `arr: [1,2,3,4,5]`<br>
 So, we need a minimum of `3` swaps to sort the array in ascending order.
 
 ### Sample Input 2
@@ -65,8 +65,8 @@ So, we need a minimum of `3` swaps to sort the array in ascending order.
 3
 ```
 ### Explanation
-Given array `arr: [1,3,5,2,4,6,7]`
-After swapping `(1,3)` we get `arr: [1,2,5,3,4,6,7]`
-After swapping `(2,3)` we get `arr: [1,2,3,5,4,6,7]`
-After swapping `(3,4)` we get `arr: [1,2,3,4,5,6,7]`
+Given array `arr: [1,3,5,2,4,6,7]`<br>
+After swapping `(1,3)` we get `arr: [1,2,5,3,4,6,7]`<br>
+After swapping `(2,3)` we get `arr: [1,2,3,5,4,6,7]`<br>
+After swapping `(3,4)` we get `arr: [1,2,3,4,5,6,7]`<br>
 So, we need a minimum of `3` swaps to sort the array in ascending order.
