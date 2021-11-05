@@ -1,62 +1,72 @@
 # Minimum Swaps 2
-It is New Year's Day and people are in line for the Wonderland rollercoaster ride. Each person wears a sticker indicating their initial position in the queue from  `1` to `n`. Any person can bribe the person directly in front of them to swap positions, but they still wear their original sticker. One person can bribe at most two others.
-
-Determine the minimum number of bribes that took place to get to a given queue order. Print the number of bribes, or, if anyone has bribed more than two people, print **Too chaotic**.
+You are given an unordered array consisting of consecutive integers `∈` [1, 2, 3, ..., n] without any duplicates. You are allowed to swap any two elements. Find the minimum number of swaps required to sort the array in ascending order.
 ## Example
-`q = [1,2,3,5,4,6,7,8]`
-If person `5` bribes person `4`, the queue will look like this: `1,2,3,5,4,6,7,8`. Only `1` bribe is required. Print 1.
-`q = [4,1,2,3]`
-Person `4` had to bribe `3` people to get to the current position. Print **Too chaotic**.
+`arr = [7,1,3,2,4,5,6]`
+
+Perform the following steps:
+```html
+i   arr                     swap (indices)
+0   [7, 1, 3, 2, 4, 5, 6]   swap (0,3)
+1   [2, 1, 3, 7, 4, 5, 6]   swap (0,1)
+2   [1, 2, 3, 7, 4, 5, 6]   swap (3,4)
+3   [1, 2, 3, 4, 7, 5, 6]   swap (4,5)
+4   [1, 2, 3, 4, 5, 7, 6]   swap (5,6)
+5   [1, 2, 3, 4, 5, 6, 7]
+```
+
+It took `5` swaps to sort the array.
 
 ## Function Description
 
-Complete the function **minimumBribes** in the editor below.
+Complete the function *minimumSwaps* in the editor below.
 
-minimumBribes has the following parameter(s):
+*minimumSwaps* has the following parameter(s):
 
-- int q[n]: the positions of the people after all bribes
+- `int arr[n]`: an unordered array of integers
 
 **Returns**
-- No value is returned. Print the minimum number of bribes necessary or *Too chaotic* if someone has bribed more than `2` people.
+- int: the minimum number of swaps to sort the array
+
 
 **Input Format**
 
-The first line contains an integer `t`, the number of test cases.
+The first line contains an integer,`n` , the size of `arr`.
 
-Each of the next `t` pairs of lines are as follows:
-
-- The first line contains an integer `t`, the number of people in the queue
-- The second line has `n` space-separated integers describing the final state of the queue.
+The second line contains  space-separated integers `arr[i]`.
 
 **Constraints**
 
-   - `1 ≤ t ≤ 10`
    - `1 ≤ n ≤ 10^5`
-   
-***Subtasks***
+   - `1 ≤ arr[i] ≤ n`
 
-   - For **60%** score `1 ≤ n ≤ 10^3`
-   - For **100%** score `1 ≤ n ≤ 10^5`
-
-### Sample Input
+### Sample Input 1
 ```html
-STDIN           Function
------           --------
-2               t = 2
-5               n = 5
-2 1 5 3 4       q = [2, 1, 5, 3, 4]
-5               n = 5
-2 5 1 3 4       q = [2, 5, 1, 3, 4]
+4
+4 3 1 2
 ```
-### Sample output
+### Sample output 1
 ```html
 3
-Too chaotic
 ```
 ### Explanation
-**Test Case 1**
-![testcase1](image.png)
+Given array `arr: [2,3,4,1,5]`
+After swapping `(2,3)` we get `arr: [2,3,1,4,5]`
+After swapping `(0,1)` we get `arr: [3,2,1,4,5]`
+After swapping `(0,2)` we get `arr: [1,2,3,4,5]`
+So, we need a minimum of `3` swaps to sort the array in ascending order.
 
-**Test Case 2**
-
-No person can bribe more than two people, yet it appears person `5` has done so. It is not possible to achieve the input state.
+### Sample Input 2
+```html
+7
+1 3 5 2 4 6 7
+```
+### Sample output 2
+```html
+3
+```
+### Explanation
+Given array `arr: [1,3,5,2,4,6,7]`
+After swapping `(1,3)` we get `arr: [1,2,5,3,4,6,7]`
+After swapping `(2,3)` we get `arr: [1,2,3,5,4,6,7]`
+After swapping `(3,4)` we get `arr: [1,2,3,4,5,6,7]`
+So, we need a minimum of `3` swaps to sort the array in ascending order.
