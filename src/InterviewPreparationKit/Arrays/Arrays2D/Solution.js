@@ -1,5 +1,4 @@
 'use strict';
-
 const fs = require('fs');
 
 process.stdin.resume();
@@ -43,7 +42,6 @@ function hourglassSum(arr) {
             if (sum > max) max = sum;
         }
     }
-
     return max;
 }
 
