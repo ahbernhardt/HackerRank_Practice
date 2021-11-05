@@ -48,7 +48,6 @@ function minimumBribes(q) {
     }
     const sum = countBribes.reduce((a,b) => a + b, 0)  // sum
     console.log(sum);
-
 }
 
 function main() {
