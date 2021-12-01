@@ -1,6 +1,6 @@
 # My HackerRank Solutions
 
-This repository contains my solutions for the challenges hosted @HackerRank.com All problems are solved in Java or JavaScript. Each challenge contains the original problem statement in markdown format.
+This repository contains my solutions for the challenges hosted @HackerRank.com All problems are solved in Java or JavaScript. Each challenge contains the original problem statement in Markdown or PDF format.
 
 -----------------------------------------------------------------------------------------------------------------------
 ## Interview Preparation Kit
